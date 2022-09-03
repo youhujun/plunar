@@ -1,0 +1,5 @@
+composer.phar
+composer.lock
+vendor/
+*.swp
+.DS_Store
