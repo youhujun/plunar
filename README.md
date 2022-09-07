@@ -1,3 +1,4 @@
+
 Plunar
 ======
 一个PHP版中国阴历转换工具，用于将阳历日期转换为中国阴历日期。
@@ -13,7 +14,7 @@ Plunar
 使用 Composer 安装：
 
 ```
-composer require guojikai/plunar
+composer require youhujun/plunar
 ```
 在入口文件引入 Composer 启动脚本： (eg. index.php)
 
